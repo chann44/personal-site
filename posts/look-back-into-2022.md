@@ -110,7 +110,7 @@ was released in March 2022. This release focuses on performance improvements and
 we got some new concept like `Concurrent React` and more features liek `Automatic Batching`, `Transitions`, `Suspense on the server` and much more fun stuff was added to react.
 
 `NEXT 13`  
-NEXT JS logo was changed i am kidding a new version was released that focus on Performance and dev experience it was lot's of new features let's see those at glans
+`NEXT JS` logo was changed I am kidding a new version was released that focus on Performance and dev experience it was lot's of new features let's see those at glans
 
 1. New app Directory
 2. Layouts
@@ -121,7 +121,10 @@ and much more read the full [Blog](https://nextjs.org/blog/next-13#streaming) he
 
 `Bun`  
 Bun is a modern JavaScript runtime like Node or Deno. It was built from scratch to focus on three main things:
-i am realy exited to check this out and it does alot of things very fast and it is `BLAZINGLY FAST` and Batteries included.  
+1. Start fast (it has the edge in mind).
+2. New levels of performance (extending JavaScriptCore, the engine).
+3. Being a great and complete tool (bundler, transpiler, package manager).
+I am realy exited to check this out and it does alot of things very fast and it is `BLAZINGLY FAST` and Batteries included.  
 check out the [docs](https://bun.sh/)
 
 `QWik`
