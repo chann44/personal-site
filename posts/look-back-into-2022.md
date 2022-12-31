@@ -90,4 +90,53 @@ Working with them sparked a new interest in web3 for me, and I began to see the 
 
 Thanks to these experiences, my outlook on web3 technology has completely changed. I'm constantly amazed by the innovative projects that are being built with it. I am grateful to have met such knowledgeable and inspiring people who have opened my eyes to the limitless possibilities of web3.
 
-### Friends
+### First Paid work
+
+Two years ago, I started learning to program with almost no experience or resources. I didn't have a computer or internet access, and I had studied biology in college, so I didn't have any connections in the tech industry. I thought that it was a field only for math wizards and that I wouldn't be able to make any money from it. But I enjoyed programming, so I kept learning and improving my skills.
+
+I was lucky enough to meet this guy ([satyam](https://twitter.com/sk1122_)) who is exceptionally smart guy who knew a lot about programming. He had an opening for an internship in a company at the time he was working in that focused on React and Firebase, two technologies that I was familiar with but not particularly confident in. Despite my doubts, I decided to take the internship and give it my best shot.
+
+The experience ended up being incredibly rewarding. Not only did I learn a lot and improve my skills, but I also gained the confidence and experience I needed to tackle more complex projects. I even got paid for my work, which was an added bonus.
+
+Overall, the internship was a turning point in my journey as a programmer. It gave me the opportunity to apply my knowledge and build my confidence, and it opened the door to many more exciting projects and experiences. I am grateful to have had such a valuable and enjoyable experience
+
+## TECH
+
+This year we got alot of exiting projects in open source community which i am realy exited to learn next year and some of them i want to use for my work
+
+`React 18`
+was released in March 2022. This release focuses on performance improvements and updating the rendering engine.
+
+we got some new concept like `Concurrent React` and more features liek `Automatic Batching`, `Transitions`, `Suspense on the server` and much more fun stuff was added to react.
+
+`NEXT 13`  
+NEXT JS logo was changed i am kidding a new version was released that focus on Performance and dev experience it was lot's of new features let's see those at glans
+
+1. New app Directory
+2. Layouts
+3. Streaming
+4. Improved Data fetching patterns
+
+and much more read the full [Blog](https://nextjs.org/blog/next-13#streaming) here.
+
+`Bun`  
+Bun is a modern JavaScript runtime like Node or Deno. It was built from scratch to focus on three main things:
+i am realy exited to check this out and it does alot of things very fast and it is `BLAZINGLY FAST` and Batteries included.  
+check out the [docs](https://bun.sh/)
+
+`QWik`
+I am realy exited about this one it's is the new kid on the block with 100000 of others js frameworks we have right now but it claims to provide alot of great features and focus on less javascript on the client and performance check out the [docs](https://qwik.builder.io/)
+
+`Astro`
+
+Astro is the web framework for building fast, content-focused websites. Performance powered by Astro's next-gen island architecture.
+
+check out the [docs](https://astro.build/)
+
+## DONE
+
+As I come to the end of this year, I want to take a moment to thank all of the amazing people I have met along the way. From old friends to new, these individuals have enriched my life and helped me grow as a person.
+
+I also want to give a special shoutout to a dear friend 🇧🇩 who I haven't met in person, but who has had a profound impact on my life. She gave me a truly thoughtful and meaningful gift on my birthday that has brought so much joy to my life.
+
+I am grateful to have such wonderful people in my life, and I am looking forward to the adventures and memories we will make together in the coming year. I hope that the next year brings even more growth, happiness, and fulfillment for all of us. Thank you for everything, and I can't wait to see what the future holds.
