@@ -34,7 +34,7 @@ But the real drama came when the details of the deal were revealed. As it turns 
 
 In the end, however, it all paid off. Twitter is now firmly in the hands of Elon Musk, and the future looks bright for both the platform and its new owner. Who knows what other wild adventures are in store for the tech mogul? One thing is for sure: it's going to be an exciting ride.
 
-### crypto crashed (goint to the ocean)
+### crypto crashed (going to the ocean)
 
 ![Alt text](https://images.unsplash.com/photo-1639762681057-408e52192e55?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8d2ViM3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60 "a title")
 
