@@ -1,9 +1,9 @@
 ---
 title: "Implementing a Route Progress Bar in a Next.js and Tailwind CSS App"
 plum: true
-year: 2023
-day: 1
-date: 01 Jan, 2022
+year: 2022
+day: 30
+date: 30 Dec, 2022
 ---
 
 HEY 👋, Welcome to this tutorial on adding a route progress bar to a Next.js and Tailwind CSS app! A route progress bar is a visual indicator that displays the progress of a user's journey as they navigate through an app or website. This can be a useful tool for enhancing the user experience and providing feedback to users on their progress.

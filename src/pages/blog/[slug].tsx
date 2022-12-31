@@ -13,7 +13,7 @@ export default function Home({
       <Head>
         <title>{frontmatter.title}</title>
       </Head>
-      <div className=" prose prose-p:text-lg dark:prose-h2:text-white dark:prose-code:text-white dark:prose-a:text-white mx-auto dark:text-white/80">
+      <div className=" prose prose-p:text-lg dark:prose-headings:text-white dark:prose-code:text-white dark:prose-a:text-white mx-auto dark:text-white/80">
         <h1 className="dark:text-white/90">{frontmatter.title}</h1>
         <div dangerouslySetInnerHTML={{ __html: md().render(content) }} />
       </div>
