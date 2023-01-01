@@ -19,7 +19,7 @@ I want to be able to use the technologies I've learned this year more effectivel
 here is the tech..
 
 1. tRPC
-2. Next js (get better and deep div)
+2. Next js 13
 3. Testing in Javascript and React (jest / React Testing library)
 4. Typescrpt
 5. Docker
