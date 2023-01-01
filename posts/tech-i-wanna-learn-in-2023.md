@@ -53,7 +53,7 @@ In order to fully utilise TypeScript in my Nextjs apps, I am eager to learn more
 
 ### Docker
 
-I am interested in learning more about deployment and using containers, and am considering using `Docker`. I have not previously done any deployments on a server, and have only used platforms like `Vercel`. I am particularly excited about learning about Docke
+I am interested in learning more about deployment and using containers, and am considering using `Docker`. I have not previously done any deployments on a server, and have only used platforms like `Vercel`. I am particularly excited to learn about Docker
 
 ### Animations
 
