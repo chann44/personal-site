@@ -22,6 +22,14 @@ export default function Home({
         </title>
       </Head>
       <div className="-my-12 prose prose-p:text-lg dark:prose-a:text-white mx-auto dark:text-white/80">
+        {/* <div className="relative h-40 w-40 rounded-full mb-16">
+          <Image
+            src={"/vikash.jpg"}
+            fill
+            alt="img"
+            className="object-cover rounded-full "
+          />
+        </div> */}
         <div dangerouslySetInnerHTML={{ __html: md().render(content) }} />
       </div>
     </>
